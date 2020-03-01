@@ -1,0 +1,4 @@
+4 -- Attribute error ---- private variables
+19 answer wrong
+24 =-- doubt
+26 --	 
